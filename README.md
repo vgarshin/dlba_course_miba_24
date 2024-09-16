@@ -31,10 +31,10 @@ After the course you will have knowledge and skills of:
 
 1. Introduction to Deep Learning (DL)
     1. Intro to course
-    2. How DL differs from Machine Learning (ML). Artificial Intelligence (AI) vs DL vs ML. Terminology (CV, NLP)
-    3. History of DL and how DL appeared. Rise of DL in 21st century. Data and computational power as prerequisites for DL modelling
-    4. Tasks to solve with DL. Texts analysis (or Natural Language Processing or NLP), Computer Vision (CV) problems, Speac analysis, RL problem, etc.
-    5. Reality and myths of DL. What DL can and can not
-    6.  Business cases and projects based on DL. Translators, speech kits, face and objects recognition, deep fakes etc.
+    2. How DL differs from Machine Learning (ML). Artificial Intelligence (AI) vs DL vs ML. Terminology (CV, NLP)
+    3. History of DL and how DL appeared. Rise of DL in 21st century. Data and computational power as prerequisites for DL modelling
+    4. Tasks to solve with DL. Texts analysis (or Natural Language Processing or NLP), Computer Vision (CV) problems, Speac analysis, RL problem, etc.
+    5. Reality and myths of DL. What DL can and can not
+    6. Business cases and projects based on DL. Translators, speech kits, face and objects recognition, deep fakes etc.
 
 Join [Telegram channel](https://t.me/+9IWc1JocKT40MTJi) for the course.
