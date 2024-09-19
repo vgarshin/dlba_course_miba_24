@@ -36,5 +36,11 @@ After the course you will have knowledge and skills of:
     4. Tasks to solve with DL. Texts analysis (or Natural Language Processing or NLP), Computer Vision (CV) problems, Speac analysis, RL problem, etc.
     5. Reality and myths of DL. What DL can and can not
     6. Business cases and projects based on DL. Translators, speech kits, face and objects recognition, deep fakes etc.
+2. Computer Vision (CV) introduction
+   1. History of CV. What digital image is (monochrome, color – BGR vs RGB)
+   2. Tools for CV that were before NN. OpenCV library: sometimes simple math is enough. Examples for simple object detection
+   3. Idea of convolutions. Why convolutions work
+   4. Simple Convolutional Neural Network (CNN)
+   5. Image classification task – from simple linear regression approach to CNN (MNIST example)
 
 Join [Telegram channel](https://t.me/+9IWc1JocKT40MTJi) for the course.
