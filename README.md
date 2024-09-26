@@ -42,5 +42,16 @@ After the course you will have knowledge and skills of:
    3. Idea of convolutions. Why convolutions work
    4. Simple Convolutional Neural Network (CNN)
    5. Image classification task – from simple linear regression approach to CNN (MNIST example)
+3. Computer Vision (CV) advanced
+   1. Modern CNN’s architecture: deep convolutional layers, pooling and dropout layers, concatenations etc.
+   2. Image classification tasks with modern CNNs: evolution over the ImageNet challenge
+   3. Work with image classification CNNs: training from scratch vs finetuning and other techniques
+   4. What data is needed to train CV model well: quality, volume requirements
+   5. Data preprocessing and labeling: tools and solutions
+4. Object detection problems. Part 1
+   1. Object recognition: classification, detection, segmentation
+   2. NNs architectures to tackle this problem: R-CNN, Fast R-CNN, Faster R-CNN, Mask R-CNN
+   3. Data processing and labeling aspects for recognition tasks
+
 
 Join [Telegram channel](https://t.me/+9IWc1JocKT40MTJi) for the course.
