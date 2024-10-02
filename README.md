@@ -52,6 +52,18 @@ After the course you will have knowledge and skills of:
    1. Object recognition: classification, detection, segmentation
    2. NNs architectures to tackle this problem: R-CNN, Fast R-CNN, Faster R-CNN, Mask R-CNN
    3. Data processing and labeling aspects for recognition tasks
+5. Object detection problems. Part 2
+   1. Two-stage detectors versus single-stage strategy for detection
+   2. Challenges for object detection
+   3. YOLO (You Only Look Once) for detecting objects
+   4. Frameworks for object detection and their applicaions
+6. Hugging Face Hub for Computer Vision tasks
+   1. History and about
+   2. Transformers Library
+   3. Vision Transformer (ViT)
+   4. Image-to-text, image captioning
+   5. Text-to-image, Text(or image)-to-video idea
+   6. Zero-shot image classification models
 
 
 Join [Telegram channel](https://t.me/+9IWc1JocKT40MTJi) for the course.
