@@ -64,6 +64,17 @@ After the course you will have knowledge and skills of:
    4. Image-to-text, image captioning
    5. Text-to-image, Text(or image)-to-video idea
    6. Zero-shot image classification models
+7. Faces recognition. Generative adversarial networks. Deep Fakes
+   1. Face Detection approaches
+   2. Face Recognition modern frameworks
+   3. Generative Adversarial Networks (GAN). Implementation and architecture. GAN’s variations and applications
+   4. Deepfakes. Technology behind the fakes
+   5. Project examples for the fakes. Rage against the deepfakes
+8. More Tasks for Deep Learning
+   1. Optical Character Recognition (OCR)
+   2. Deep learning for tabular data. TabNet
+   3. Deep learning for time-series data. TimesFM
+   4. Reinforcement Learning: intro, concepts, understanding the process, solving RL problems, Q-Learning, DQL
 
 
 Join [Telegram channel](https://t.me/+9IWc1JocKT40MTJi) for the course.
