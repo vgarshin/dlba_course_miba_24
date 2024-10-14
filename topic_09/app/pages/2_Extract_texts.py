@@ -44,8 +44,6 @@ st.markdown(
 )
 st.divider()
 
-APP_CONFIG = read_json(file_path='config.json')
-
 ####################################
 ########## YOUR CODE HERE ##########
 ####################################

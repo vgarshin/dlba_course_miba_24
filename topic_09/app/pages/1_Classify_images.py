@@ -120,7 +120,7 @@ with st.spinner('Please wait, application is initializing...'):
     ####################################
     # You may want to change the list of
     # classes so you will have to edit
-    # `congif.yaml` file and update it
+    # `config.yaml` file and update it
     # with new data.
     # You do not have to change the code
     # below but think of naming classes

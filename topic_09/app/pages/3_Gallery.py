@@ -35,7 +35,9 @@ N_COLS = 3
 APP_CONFIG = read_json(file_path='config.json')
 IMGS_PATH = APP_CONFIG['imgs_path']
 CLASSES = APP_CONFIG['classes']
-DB_DICT = APP_CONFIG['db_dict']    
+DB_DICT = APP_CONFIG['db_dict']
+CLASSES.append('other')
+DB_DICT['other'] = 'other'
 
 
 @st.cache_data
